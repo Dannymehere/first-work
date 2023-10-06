@@ -1,0 +1,11 @@
+.bodytext{
+    font-family: 'Anton', sans-serif;
+margin-top: 150px; 
+margin-right: 100px;
+margin-left: 300px;
+margin-bottom: 200px;
+}
+.color{
+    background-color: rgb(62, 60, 191);
+    color: aqua;
+}
